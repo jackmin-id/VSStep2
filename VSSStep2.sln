@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parameters", "Parameters\Pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructsAndEnums", "StructsAndEnums\StructsAndEnums.csproj", "{A6DEA069-B24E-4461-8B17-77FA0D40A10E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardsArray", "CardsArray\CardsArray.csproj", "{E1A75FE0-B6D7-48D9-B7C2-A7917119C205}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A6DEA069-B24E-4461-8B17-77FA0D40A10E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6DEA069-B24E-4461-8B17-77FA0D40A10E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6DEA069-B24E-4461-8B17-77FA0D40A10E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1A75FE0-B6D7-48D9-B7C2-A7917119C205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1A75FE0-B6D7-48D9-B7C2-A7917119C205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1A75FE0-B6D7-48D9-B7C2-A7917119C205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1A75FE0-B6D7-48D9-B7C2-A7917119C205}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
